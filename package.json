@@ -1,0 +1,22 @@
+{
+  "name": "postdesc",
+  "version": "1.0.0",
+  "description": "The best market place in Ukrain ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djdfyz/yearproject.git"
+  },
+  "author": "Vladimir Pilipchatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djdfyz/yearproject/issues"
+  },
+  "homepage": "https://github.com/djdfyz/yearproject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
