@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9331c962-eb90-4d2a-bafb-129877dac18d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vim.exe.stackdump" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dropdown/css/normalize.css" afterPath="$PROJECT_DIR$/app/dropdown/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.php" afterPath="$PROJECT_DIR$/app/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/Gruntfile.js" afterPath="$PROJECT_DIR$/app/owl/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/README.md" afterPath="$PROJECT_DIR$/app/owl/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/dist/README.md" afterPath="$PROJECT_DIR$/app/owl/dist/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/docs/assets/owlcarousel/README.md" afterPath="$PROJECT_DIR$/app/owl/docs/assets/owlcarousel/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/docs/assets/owlcarousel/owl.carousel.js" afterPath="$PROJECT_DIR$/app/owl/docs/assets/owlcarousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/owl.carousel.js" afterPath="$PROJECT_DIR$/app/owl/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/owl/src/js/owl.carousel.js" afterPath="$PROJECT_DIR$/app/owl/src/js/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/css/font-awesome.css" afterPath="$PROJECT_DIR$/app/dist/icons/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/css/fontawesome-all.css" afterPath="$PROJECT_DIR$/app/dist/icons/css/fontawesome-all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/css/fontawesome.css" afterPath="$PROJECT_DIR$/app/dist/icons/css/fontawesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/app/dist/icons/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/animated.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/core.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/fixed-width.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/font-awesome.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/icons.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/larger.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/list.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/mixins.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/path.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/screen-reader.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/screen-reader.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/stacked.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/less/variables.less" afterPath="$PROJECT_DIR$/app/dist/icons/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/product 3.jpg" afterPath="$PROJECT_DIR$/app/dist/icons/product 3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_animated.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_core.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_icons.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_larger.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_list.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_mixins.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_path.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_stacked.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/_variables.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/icons/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/app/dist/icons/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/1.jpg" afterPath="$PROJECT_DIR$/app/dist/img/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-body-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-body-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-body.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-body.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-book-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-book-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-book.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-book.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-buggy-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-buggy-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/baby-buggy.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/baby-buggy.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/backpack-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/backpack-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/backpack.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/backpack.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/cradle-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/cradle-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/cradle.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/cradle.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/feeding-bottle-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/feeding-bottle-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/feeding-bottle.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/feeding-bottle.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/kick-scooter-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/kick-scooter-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/kick-scooter.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/kick-scooter.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/shoe-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/shoe-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/shoe.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/shoe.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/teddy-bear-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/teddy-bear-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/baby/teddy-bear.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/baby/teddy-bear.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/computer-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/computer-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/computer.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/computer.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/cpu-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/cpu-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/cpu.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/cpu.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/gamepad-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/gamepad-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/gamepad.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/gamepad.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/laptop-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/laptop-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/laptop.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/laptop.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/microphone-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/microphone-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/microphone.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/microphone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/mixer-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/mixer-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/mixer.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/mixer.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/monitor-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/monitor-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/monitor.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/monitor.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/photo-camera-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/photo-camera-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/photo-camera.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/photo-camera.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/router-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/router-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/router.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/router.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/smartphone-and-tablet-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/smartphone-and-tablet-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/smartphone-and-tablet.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/smartphone-and-tablet.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/washing-machine-for-laundry-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/washing-machine-for-laundry-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/category/electronic/washing-machine-for-laundry.svg" afterPath="$PROJECT_DIR$/app/dist/img/category/electronic/washing-machine-for-laundry.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/advert-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/advert-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/advert.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/advert.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/arrow-cat-back.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/arrow-cat-back.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/arrow-down.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/arrow-down.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/arrow-left.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/arrow-left.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/arrow-right.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/arrow-right.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/arrow.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/bin.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/bin.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/calendar.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/calendar.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/clip.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/clip.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/close-white.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/close-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/email.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/email.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/exit-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/exit-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/exit.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/exit.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/eye.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/eye.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/facebook.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/facebook.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/google-plus.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/google-plus.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/heart-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/heart-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/heart.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/heart.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/home-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/home-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/home.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/home.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/id-card-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/id-card-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/id-card.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/id-card.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/info.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/info.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/mail-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/mail-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/mail.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/mail.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/map-marker.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/map-marker.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/menu-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/menu-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/menu.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/menu.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/newspaper.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/newspaper.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/next.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/next.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/pencil.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/pencil.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/phone-circle.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/phone-circle.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/phone.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/phone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/plus-circle.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/plus-circle.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/plus-white.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/plus-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/plus.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/plus.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/region-arrow-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/region-arrow-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/region-arrow.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/region-arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/right-arrow.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/right-arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/search.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/search.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/send.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/send.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/settings-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/settings-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/settings.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/settings.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/star-hover.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/star-hover.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/star.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/star.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/stats.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/stats.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/twitter.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/twitter.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/user-white.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/user-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/ico/user.svg" afterPath="$PROJECT_DIR$/app/dist/img/ico/user.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product1.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product10.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product11.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product12.jpeg" afterPath="$PROJECT_DIR$/app/dist/img/product12.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product13.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product2.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product3.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product4.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product5.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product6.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product7.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product8.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/product9.jpg" afterPath="$PROJECT_DIR$/app/dist/img/product9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/user1.jpg" afterPath="$PROJECT_DIR$/app/dist/img/user1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/user2.jpg" afterPath="$PROJECT_DIR$/app/dist/img/user2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/user3.jpg" afterPath="$PROJECT_DIR$/app/dist/img/user3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/user4.jpg" afterPath="$PROJECT_DIR$/app/dist/img/user4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/add.css" afterPath="$PROJECT_DIR$/app/dist/css/add.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/convers.css" afterPath="$PROJECT_DIR$/app/dist/css/convers.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/home.css" afterPath="$PROJECT_DIR$/app/dist/css/home.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/login.css" afterPath="$PROJECT_DIR$/app/dist/css/login.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/myaccount.css" afterPath="$PROJECT_DIR$/app/dist/css/myaccount.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/mydialog.css" afterPath="$PROJECT_DIR$/app/dist/css/mydialog.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/mypost.css" afterPath="$PROJECT_DIR$/app/dist/css/mypost.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/style.css" afterPath="$PROJECT_DIR$/app/dist/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/stylesheet/view.css" afterPath="$PROJECT_DIR$/app/dist/css/view.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/add.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/add.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/advert.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/advert.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/bar-chart.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/bar-chart.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/exit.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/exit.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/icons8-yandex-direct.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/icons8-yandex-direct.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/id-card.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/id-card.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/like.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/like.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/mail.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/mail.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/round-account-button-with-user-inside.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/round-account-button-with-user-inside.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/svgicon/settings.svg" afterPath="$PROJECT_DIR$/app/dist/svgicon/settings.svg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="830">
+              <caret line="133" column="71" lean-forward="false" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
+              <folding>
+                <element signature="e#2299#3434#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testgulp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/testgulp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_sprite.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pre-assets/sass/_sprite.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <marker date="1520528413307" expanded="true" signature="463:511" ph="{...}" />
+                <marker date="1520528413307" expanded="true" signature="526:574" ph="{...}" />
+                <marker date="1520528413307" expanded="true" signature="594:642" ph="{...}" />
+                <marker date="1520528413307" expanded="true" signature="656:707" ph="{...}" />
+                <marker date="1520528413307" expanded="true" signature="736:796" ph="{...}" />
+                <marker date="1520528413307" expanded="true" signature="831:894" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/pre-assets/sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/testgulp.php" />
+        <option value="$PROJECT_DIR$/app/pre-assets/sass/main.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>scripts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>scripts-libs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+            </dependencies>
+            <task-name>css-libs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>img</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>svgSprite</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>mytask</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>svgSpriteSass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clear</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="browser-sync" />
+              <dependency value="clean" />
+              <dependency value="css-libs" />
+              <dependency value="scripts" />
+              <dependency value="scripts-libs" />
+              <dependency value="img" />
+              <dependency value="svgSprite" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+              <dependency value="img" />
+              <dependency value="css-libs" />
+              <dependency value="scripts-libs" />
+              <dependency value="scripts" />
+              <dependency value="svg" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1928" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pre-assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pre-assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pre-assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="svgicon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bachmut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="W:\domains\bachmut\node_modules\gulp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9331c962-eb90-4d2a-bafb-129877dac18d" name="Default" comment="" />
+      <created>1520519881103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520519881103</updated>
+      <workItem from="1520519890132" duration="6980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6980000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50446427" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.4955357" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="133" column="71" lean-forward="false" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
+          <folding>
+            <element signature="e#2299#3434#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pre-assets/sass/_sprite.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1520528413307" expanded="true" signature="463:511" ph="{...}" />
+            <marker date="1520528413307" expanded="true" signature="526:574" ph="{...}" />
+            <marker date="1520528413307" expanded="true" signature="594:642" ph="{...}" />
+            <marker date="1520528413307" expanded="true" signature="656:707" ph="{...}" />
+            <marker date="1520528413307" expanded="true" signature="736:796" ph="{...}" />
+            <marker date="1520528413307" expanded="true" signature="831:894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testgulp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pre-assets/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

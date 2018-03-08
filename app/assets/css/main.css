@@ -1,0 +1,67 @@
+p {
+  font-size: 50px;
+  color: red; }
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: currentColor; }
+
+.icon-computer {
+  font-size: 61.201rem;
+  width: 1em; }
+
+.icon-cpu {
+  font-size: 46.4rem;
+  width: 1em; }
+
+.icon-gamepad {
+  font-size: 43.895rem;
+  width: 1em; }
+
+.icon-laptop {
+  font-size: 11.5383rem;
+  width: 1em; }
+
+.icon-microphone {
+  font-size: 50.802rem;
+  width: 1em; }
+
+.icon-mixer {
+  font-size: 3.2rem;
+  width: 1em; }
+
+.icon-monitor {
+  font-size: 3.3rem;
+  width: 1em; }
+
+.icon-photo-camera {
+  font-size: 6rem;
+  width: 1em; }
+
+.icon-router {
+  font-size: 30rem;
+  width: 1em; }
+
+.icon-smartphone-and-tablet {
+  font-size: 26.913rem;
+  width: 1em; }
+
+.icon-washing-machine-for-laundry {
+  font-size: 47.3631rem;
+  width: 1em; }
+
+body {
+  background: pink; }
+
+.block {
+  width: 200px;
+  padding: 5px; }
+
+.myicon {
+  font-size: 2em; }
+  .myicon.red_mod {
+    color: black; }
+  .myicon:hover {
+    color: red; }

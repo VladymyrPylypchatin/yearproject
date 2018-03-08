@@ -24,7 +24,7 @@ Or download the [latest release](https://github.com/OwlCarousel2/OwlCarousel2/re
 Load the required stylesheet and JS:
 
 ```js
-import 'owl.carousel/dist/assets/owl.carousel.css';
+import pre-assets;
 import $ from 'jquery';
 import 'imports?jQuery=jquery!owl.carousel';
 ```

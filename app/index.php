@@ -103,8 +103,7 @@
                     <div class="row   d-flex  align-items-stretch">
                         <div class="logo  col-xl-3 col-lg-3 col-md-4 col-sm-6 col-10 d-flex align-items-center">
                             <h2>
-                                <span class="color-red">B</span>
-                                achmut Post
+                                <span class="color-red">B</span>achmut Post
                             </h2>
                         </div>
                         

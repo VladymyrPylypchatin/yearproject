@@ -1,0 +1,19 @@
+@import "part";
+@import "sprite";
+body{
+  background: pink;
+}
+.block{
+  width: 200px;
+  padding: 5px;
+
+}
+.myicon{
+  font-size: 2em;
+  &.red_mod{
+    color: black;
+  }
+  &:hover{
+    color: red;
+  }
+}
